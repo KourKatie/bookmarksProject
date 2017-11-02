@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Heebo|Raleway+Dots');
+
+
+h1 {
+    font-family: 'Heebo', sans-serif;
+    text-align: left;
+    font-size: 55px;
+    color: #484F4B;
+}
+
+h2 {
+    font-family: 'Heebo', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    color: #484F4B;
+    padding-bottom: 25px;
+}
+
+.top {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 25px;
+}
+
+/*form {*/
+    /*padding-left: 25px;*/
+    /*padding-right: 25px;*/
+    /*padding-bottom: 25px;*/
+
+/*}*/
+
+label {
+    font-size: 18px;
+    font-family: 'Heebo', sans-serif;
+    color: #D44D5C;
+
+}
+
+th {
+    font-size: 20px;
+}
+
+td {
+    font-family: 'Heebo', sans-serif;
+
+}
+
+.formstyle {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+.category {
+    font-family: 'Heebo', sans-serif;
+    padding-left: 25px;
+    padding-top: 25px;
+    font-size: 20px;
+    color: #D44D5C;
+}
+
+.links {
+    font-size: 18px;
+    font-family: 'Heebo', sans-serif;
+    color: #D44D5C;
+}
+
+a:hover {
+    color: #484F4B;
+}
